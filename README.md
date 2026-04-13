@@ -1,6 +1,6 @@
 # schema-markup-generator
 
-<img width="1280" height="640" alt="schema-markup-generator" src="https://github.com/user-attachments/assets/5d532687-fb08-4cb3-9145-32e32df1b58b" />
+![schema-markup-generator](https://github.com/user-attachments/assets/4b5e5bfb-3c33-4a20-afff-59fda19196b4)
 
 
 Generate valid JSON-LD structured data for any webpage. The agent crawls the page, detects which schema types apply, and outputs a script tag ready to paste into your HTML. Optionally opens a GitHub PR with the markup injected.
